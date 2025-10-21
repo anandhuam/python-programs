@@ -8,4 +8,4 @@ This repository contains a collection of useful and educational Python programs.
 
    ```bash
    git clone https://github.com/your-username/python-programs.git
-   cd python-programs
+
