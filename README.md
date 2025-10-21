@@ -7,5 +7,5 @@ This repository contains a collection of useful and educational Python programs.
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/python-programs.git
+   git clone https://github.com/anandhuam/python-programs.git
 
